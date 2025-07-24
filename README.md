@@ -18,16 +18,15 @@ This is a simple 8-bit calculator designed in Verilog HDL. It performs basic ari
 - Written entirely in Verilog
 - Tested using Vivado's built-in simulator (XSIM)
 
-## 📁 Folder Structure
+## 📁 Folder Structure  
 
 calculator_project/
-├── basic_calculator.v         # Main Verilog module
-├── basic_calculator_tb.v      # Testbench for the calculator
+├── basic_calculator.v # Main Verilog module
+├── basic_calculator_tb.v # Testbench for the calculator
 ├── images/
-│   ├── schematics/            # RTL or gate-level schematic images from Vivado
-│   └── simulation/            # Waveform images or simulation output screenshots
-└── README.md                  # Project documentation
-
+│ ├── schematics/ # RTL or gate-level schematic images from Vivado
+│ └── simulation/ # Waveform images or simulation output screenshots
+└── README.md # Project documentation
 
 ## 🛠️ Features
 
